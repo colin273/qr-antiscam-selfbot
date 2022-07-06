@@ -1,0 +1,11 @@
+**IMPORTANT MESSAGE PLEASE READ THIS!!!**
+
+Do **NOT** verify your account on the `Shame | Exposing | Packing | Arguments` server. The server is owned by scammers, and the purpose of that "verification" is to steal your account by tricking you into scanning the QR code.
+
+One of your friends most likely sent you a message like this: https://cdn.discordapp.com/attachments/942737788321800252/993370165775454289/unknown.png This was done by the scammers, **NOT** by your friend. Your friend was hacked with the same QR code.
+
+If you can, plase make sure your friend regains control of their account. This isn't their fault. I'm just trying to make sure you don't fall for the same scam. If anyone you know has fallen for the scam, they need to change their Discord password immediately.
+
+More information on QR code logins and security concerns: https://support.discord.com/hc/articles/360039213771
+
+*I'm messaging a lot of people to warn them, so I can't answer any replies. Sorry about that.*

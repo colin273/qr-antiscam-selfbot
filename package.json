@@ -1,0 +1,17 @@
+{
+	"name": "qr-antiscam-selfbot",
+	"version": "0.0.1",
+	"description": "A selfbot to combat Discord QR account stealers by warning potential victims",
+	"type": "module",
+	"scripts": {
+		"build": "./node_modules/typescript/bin/tsc",
+		"start": "node ./index.js"
+	},
+	"dependencies": {
+		"discord-api-types": "^0.36.1",
+		"discord.js-selfbot-v13": "^2.3.62"
+	},
+	"devDependencies": {
+		"typescript": "^4.7.4"
+	}
+}
