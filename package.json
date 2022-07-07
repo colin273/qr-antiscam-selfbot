@@ -1,6 +1,8 @@
 {
 	"name": "qr-antiscam-selfbot",
+	"author": "FifiTheBulldog",
 	"version": "0.0.1",
+	"license": "MIT",
 	"description": "A selfbot to combat Discord QR account stealers by warning potential victims",
 	"type": "module",
 	"scripts": {
@@ -9,7 +11,7 @@
 	},
 	"dependencies": {
 		"discord-api-types": "^0.36.1",
-		"discord.js-selfbot-v13": "^2.3.62"
+		"discord.js-selfbot-v13": "^2.3.64"
 	},
 	"devDependencies": {
 		"typescript": "^4.7.4"
