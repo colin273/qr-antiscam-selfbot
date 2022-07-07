@@ -23,7 +23,8 @@ const shouldSkip = (member) => {
     return false;
 };
 const isPriority = (member) => {
-    // How do we get Nitro information? If nitro, return true somehow?
+    if (member?.user?.premiumSince)
+        return true;
     for (const flag of [
         UserFlags.Partner,
         UserFlags.VerifiedDeveloper,

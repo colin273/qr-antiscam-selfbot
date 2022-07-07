@@ -29,7 +29,7 @@ const shouldSkip = (member: GuildMember): boolean => {
 };
 
 const isPriority = (member: GuildMember): boolean => {
-  // How do we get Nitro information? If nitro, return true somehow?
+  if (member?.user?.premiumSince) return true;
   for (const flag of [
     UserFlags.Partner,
     UserFlags.VerifiedDeveloper,
